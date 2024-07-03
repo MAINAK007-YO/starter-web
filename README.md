@@ -18,6 +18,10 @@ this is our repository
 
 Sample website with plenty of files will be a great project
 
+## How to contribute
+
+please fork this repo and then pull request
+
 ## New
 
 New
