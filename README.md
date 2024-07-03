@@ -24,8 +24,9 @@ please fork this repo and then pull request
 
 ## New
 
-New
+New deploy stash
 
 ### Copyright
 
 2014 Git.Training
+all right preserved
