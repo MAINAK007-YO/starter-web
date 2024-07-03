@@ -21,3 +21,7 @@ Sample website with plenty of files will be a great project
 ## New
 
 New
+
+### Copyright
+
+2014 Git.Training
