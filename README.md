@@ -25,6 +25,7 @@ please fork this repo and then pull request
 ## New
 
 New deploy stash
+new stash
 
 ### Copyright
 
